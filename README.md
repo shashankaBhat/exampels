@@ -1,2 +1,2 @@
-# exampels
-the exercise codes refered from different books
+This is a basic to-do app without user login and will be adding that soon.
+
